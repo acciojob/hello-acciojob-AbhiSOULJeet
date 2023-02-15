@@ -1,7 +1,7 @@
 .accio{
 	background-color:black;
-	max-height:150px;
-	max-width:150px;
+	width:150px;
+	height:150px;
 }
 #hello-accio{
 	text-color:white;
